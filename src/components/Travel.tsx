@@ -44,7 +44,7 @@ function Travel() {
 
     const cardData = [
         [
-            { src: '/kasuali.png', text: 'Kasuali' },
+            { src: '/kasuali.png', text: 'Kasauli' },
             { src: '/chail.png', text: 'Chail' },
             { src: '/shimla.png', text: 'Shimla' },
         ],
