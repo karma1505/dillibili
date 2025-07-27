@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head
+      <head>
         <meta name="google-site-verification" content="mgjQIyp6HfmpHMRophfBFo8bGtWG3z0KykEkJxNpUGk" />
         <link
           href="https://fonts.googleapis.com/css2?family=Alike&display=swap"
